@@ -39,6 +39,21 @@ Analyze pizza sales data using SQL to extract key performance metrics and insigh
 
 •	Bottom 5 Pizzas by Total Orders?
 
+## Process
+<li> Imported pizza sales dataset into SQL Server.</li>
+
+<li>Cleaned & explored data for accuracy and consistency.</li>
+
+<li>Wrote SQL queries to extract KPIs and trends (revenue, orders, best sellers, etc.).</li>
+
+<li>Exported results to Excel for visualization.</li>
+
+<li>Imported data into Power BI for dashboard creation.</li>
+
+<li>Built visuals for KPIs, sales trends, and top/bottom pizza performance.</li>
+
+<li>Derived insights to support business decisions.</li>
+
 ## Dashboard
 ![Home BI](https://github.com/user-attachments/assets/e383147d-ff78-4ee1-a8e9-acf597f841e5)
 ![Best and worst seller BI](https://github.com/user-attachments/assets/2fd1414e-6710-4e4a-a99d-6dbe2cbcc524)
