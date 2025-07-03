@@ -42,6 +42,7 @@ Analyze pizza sales data using SQL to extract key performance metrics and insigh
 ## Dashboard
 <li>
 https://github.com/NoobBikal/Pizza_sales_analysis/blob/main/Best%20and%20worst%20seller%20BI.png
+  
 https://github.com/NoobBikal/Pizza_sales_analysis/blob/main/Home%20BI.png
 
 </li>
