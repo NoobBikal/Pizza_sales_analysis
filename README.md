@@ -47,4 +47,18 @@ https://github.com/NoobBikal/Pizza_sales_analysis/blob/main/Best%20and%20worst%2
 https://github.com/NoobBikal/Pizza_sales_analysis/blob/main/Home%20BI.png
 </li>
 
+##Project Insights
+
+SQL was used to calculate key sales KPIs like total revenue, average order value, and pizzas sold.
+
+Trends by day and month revealed peak ordering times.
+
+Sales were broken down by pizza size and category.
+
+Top and bottom-performing pizzas were identified by revenue, quantity, and order count.
+
+Power BI visuals provided clear and interactive data insights.
+
+## Final Conclusion 
+This project effectively combined Excel, SQL and Power BI to analyze pizza sales data and uncover actionable business insights. By calculating essential KPIs and breaking down performance by time, category, and product, we identified top-performing pizzas, peak sales periods, and customer preferences. The interactive Power BI dashboard further enhanced understanding by visualizing trends and comparisons. These insights can support data-driven decisions in inventory planning, marketing strategies, and menu optimization to improve overall business performance
 
