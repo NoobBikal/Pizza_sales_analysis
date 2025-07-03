@@ -44,6 +44,8 @@ Analyze pizza sales data using SQL to extract key performance metrics and insigh
 ![Best and worst seller BI](https://github.com/user-attachments/assets/2fd1414e-6710-4e4a-a99d-6dbe2cbcc524)
 
 
+
+
 ##Project Insights
 
 SQL was used to calculate key sales KPIs like total revenue, average order value, and pizzas sold.
