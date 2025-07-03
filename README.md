@@ -46,6 +46,13 @@ Analyze pizza sales data using SQL to extract key performance metrics and insigh
 
 
 
+
+
+
+
+
+
+
 ##Project Insights
 
 SQL was used to calculate key sales KPIs like total revenue, average order value, and pizzas sold.
