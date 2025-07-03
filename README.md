@@ -7,3 +7,19 @@ Analyze pizza sales data using SQL to extract key performance metrics and insigh
 </li>
 
 ## Question KPI's
+•	Total Revenue?
+•	Average Order Value?
+•	Total Pizzas Sold?
+•	Total Orders?
+•	Average Pizzas Per Order?
+•	Daily Trend for Total Orders?
+•	Monthly Trend for Orders?
+•	Percentage of Sales by Pizza Category?
+•	Percentage of Sales by Pizza Size?
+•	Total Pizzas Sold by Pizza Category?
+•	Top 5 Pizzas by Revenue?
+•	Bottom 5 Pizzas by Revenue?
+•	Top 5 Pizzas by Quantity?
+•	Bottom 5 Pizzas by Quantity?
+•	Top 5 Pizzas by Total Orders?
+•	Bottom 5 Pizzas by Total Orders?
