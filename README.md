@@ -40,6 +40,10 @@ Analyze pizza sales data using SQL to extract key performance metrics and insigh
 •	Bottom 5 Pizzas by Total Orders?
 
 ## Dashboard
+![Home BI](https://github.com/user-attachments/assets/e383147d-ff78-4ee1-a8e9-acf597f841e5)
+
+
+
 <li>
 https://github.com/NoobBikal/Pizza_sales_analysis/blob/main/Best%20and%20worst%20seller%20BI.png
   </li>
