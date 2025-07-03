@@ -38,3 +38,9 @@ Analyze pizza sales data using SQL to extract key performance metrics and insigh
 •	Top 5 Pizzas by Total Orders?
 
 •	Bottom 5 Pizzas by Total Orders?
+
+## Dashboard
+<li>
+
+
+</li>
